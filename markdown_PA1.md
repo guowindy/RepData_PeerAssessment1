@@ -1,6 +1,6 @@
 ---
 title: "Project Assignment 1 (RepData)"
-author: "guowindy"
+author: "guo windy"
 date: "Saturday, December 13, 2014"
 output: html_document
 
